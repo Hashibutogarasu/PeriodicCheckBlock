@@ -1,4 +1,5 @@
 #APIキーの設定 https://developer.twitter.com/en/portal/dashboard で確認可
+#このファイルの名前を.envに置き換えてください
 consumer_key = "***************"
 consumer_secret = "***************"
 access_token = "***************"
